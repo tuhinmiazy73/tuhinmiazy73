@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ibne Enam Tuhin</h1>
 <h3 align="center">A passionate Devops Enthusiast from Bangladesh</h3>
 <h1>Summary</h1>
-<p>I am MD Ibne Enam Tuhin, a System Administrator with expertise in Linux, VMware, and a wide range of DevOps tools, including Docker, Kubernetes, GitHub, Prometheus, Grafana, Ansible, Terraform, and Jenkins. With a strong passion for automation, cloud technologies, and continuous integration, I am dedicated to advancing my skills and building a rewarding career in DevOps.</p>
+<p>I am Md Ibne Enam Tuhin, a System Administrator with expertise in Linux, VMware, and a wide range of DevOps tools, including Docker, Kubernetes, GitHub, Prometheus, Grafana, Ansible, Terraform, and Jenkins. With a strong passion for automation, cloud technologies, and continuous integration, I am dedicated to advancing my skills and building a rewarding career in DevOps.</p>
 
 <h2>Skills</h2>
 
@@ -19,7 +19,23 @@
 - **Web and Application Server:** Apache, Tomcat, Nginx  
 - **Load Balancer:** HAProxy, Nginx  
 
+<h2>Professional Certificates</h2>
 
+- **Red Hat Certified System Administrator (RHCSA)**  
+- **Red Hat Certified System Engineer (RHCE)**  
+- **Red Hat Certified Specialist in High Availability Clustering**
+
+<h2>Professional Trainings</h2>
+
+- **Red Hat Certified System Administrator (RHCSA)**  
+- **Red Hat Certified System Engineer (RHCE)**  
+- **Red Hat Certified Specialist in High Availability Clustering**
+- **Red Hat Certified Specialist in Ceph Cloud Storage **  
+- **Red Hat Certified Specialist in Virtualization**  
+- **Certified Kubernetes Administrator (CKA)**
+- **Docker Certified Associate (DCA)**  
+- **Certified DevOps Engineer**  
+- **AWS Certified Solutions Architect – Associate**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinmiazy73&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinmiazy73" /> </p>
 
