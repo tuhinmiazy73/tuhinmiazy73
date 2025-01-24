@@ -39,6 +39,15 @@
 - **Certified DevOps Engineer**  
 - **AWS Certified Solutions Architect – Associate**
 
+<h2>Job Experience</h2>
+
+- **System Administrator** at IT Consultants PLC  
+- **Officer - IT (System & Network Administration)** at Marie Stopes Bangladesh  
+- **Network Engineer** at RanksITT  
+- **Technical Support Engineer** at BRAC IT Services Limited  
+- **IT Executive** at ServicEngine Bangladesh  
+
+
 <h2>Education</h2>
 
 <b>Dhaka International University</b> - Dhaka, Bangladesh </br>
