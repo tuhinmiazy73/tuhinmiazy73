@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Md. Ibne Enam Tuhin</h1>
 <h3 align="center">A passionate Devops Enthusiast from Bangladesh</h3>
 
+<h1>Skills</h1>
+<p>Virtualization Environment: VMware ESXi, Proxmox, Red Hat Enterprise Virtualization</p>
+<p>Storage: IBM Storage FlashSystem 5200, IBM Storwize V7000 Gen3, IBM Storwize V7000 Gen1</p>
+<p>Operating System: Redhat Enterprise Linux, Ubuntu, Windows Server</p>
+<p>Clustering Technology: Pacemaker</p>
+<p>Version Control System: GitHub, GitLab</p>
+<p>Containerization: Docker</p>
+<p>Container Orchestration: Kubernetes</p>
+<p>Monitoring: Nagios, Grafana, Prometheus</p>
+<p>Automation: Ansible, Terraform</p>
+<p>Cloud: AWS, GCP</p>
+<p>Scripting Language: Shell Scripting</p>
+<p>Web and Application Server: Apache, Tomcat, Nginx</p>
+<p>Load Balancer: HAProxy, Nginx</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinmiazy73&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinmiazy73" /> </p>
 
 
