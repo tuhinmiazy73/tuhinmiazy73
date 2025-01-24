@@ -18,7 +18,21 @@
 - **Cloud:** AWS, GCP  
 - **Scripting Language:** Shell Scripting  
 - **Web and Application Server:** Apache, Tomcat, Nginx  
-- **Load Balancer:** HAProxy, Nginx  
+- **Load Balancer:** HAProxy, Nginx
+
+## DevOps Projects
+
+- **Containerized Web Application Deployment**: Deployed a highly available web application using Docker and Kubernetes with auto-scaling and load balancing.  
+- **CI/CD Pipeline with Jenkins**: Implemented a Jenkins pipeline for automated testing, building, and deploying a Java-based application to a Kubernetes cluster.  
+- **Infrastructure as Code (IaC) with Terraform**: Designed and deployed AWS infrastructure (VPC, EC2, S3, RDS) using Terraform for a scalable and secure application.  
+- **Monitoring and Alerting Setup**: Configured Prometheus and Grafana to monitor system performance metrics, application logs, and set up alerts for critical events.  
+- **Configuration Management with Ansible**: Automated server configuration and application deployment across multiple environments using Ansible playbooks.  
+- **Log Management with ELK Stack**: Built a centralized logging system using Elasticsearch, Logstash, and Kibana to visualize and analyze application logs.  
+- **HAProxy Load Balancer Setup**: Configured HAProxy to distribute traffic across multiple backend servers to ensure high availability and fault tolerance.  
+- **Cloud Migration to AWS**: Migrated an on-premises application to AWS, leveraging services like EC2, S3, RDS, and CloudFront for cost efficiency and scalability.  
+- **GitOps Workflow with ArgoCD**: Implemented GitOps practices using ArgoCD to automate application deployments in a Kubernetes environment.  
+- **High Availability Clustering**: Configured and tested a high availability cluster with Pacemaker to minimize downtime for critical applications.  
+
 
 <h2>Professional Certificates</h2>
 
