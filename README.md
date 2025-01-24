@@ -27,7 +27,6 @@
 - **Red Hat Certified Specialist in High Availability Clustering**
 
 <h2>Professional Trainings</h2>
-
 - **Red Hat Certified System Administrator (RHCSA)**  
 - **Red Hat Certified System Engineer (RHCE)**  
 - **Red Hat Certified Specialist in High Availability Clustering**
@@ -39,7 +38,7 @@
 - **Certified DevOps Engineer**  
 - **AWS Certified Solutions Architect – Associate**
 
-  <h2>Education</h2>
+<h2>Education</h2>
 <b>Dhaka International University</b> - Dhaka, Bangladesh </br>
  - **Bachelor of Science & Engineering in Computer Science & Engineering (CSE)**
 
