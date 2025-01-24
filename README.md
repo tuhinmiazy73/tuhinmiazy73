@@ -2,73 +2,23 @@
 <h3 align="center">A passionate Devops Enthusiast from Bangladesh</h3>
 <h1>Summary</h1>
 <p>I am MD Ibne Enam Tuhin, a System Administrator with expertise in Linux, VMware, and a wide range of DevOps tools, including Docker, Kubernetes, GitHub, Prometheus, Grafana, Ansible, Terraform, and Jenkins. With a strong passion for automation, cloud technologies, and continuous integration, I am dedicated to advancing my skills and building a rewarding career in DevOps.</p>
-<h1>Skills</h1>
+
 <h2>Skills</h2>
-<ul>
-  <li><strong>Virtualization Environment:</strong>
-    <ul>
-      <li>VMware ESXi</li>
-      <li>Proxmox</li>
-      <li>Red Hat Enterprise Virtualization</li>
-    </ul>
-  </li>
-  <li><strong>Storage:</strong>
-    <ul>
-      <li>IBM Storage FlashSystem 5200</li>
-      <li>IBM Storwize V7000 Gen3</li>
-      <li>IBM Storwize V7000 Gen1</li>
-    </ul>
-  </li>
-  <li><strong>Operating System:</strong>
-    <ul>
-      <li>Red Hat Enterprise Linux</li>
-      <li>Ubuntu</li>
-      <li>Windows Server</li>
-    </ul>
-  </li>
-  <li><strong>Clustering Technology:</strong> Pacemaker</li>
-  <li><strong>Version Control System:</strong>
-    <ul>
-      <li>GitHub</li>
-      <li>GitLab</li>
-    </ul>
-  </li>
-  <li><strong>Containerization:</strong> Docker</li>
-  <li><strong>Container Orchestration:</strong> Kubernetes</li>
-  <li><strong>Monitoring:</strong>
-    <ul>
-      <li>Nagios</li>
-      <li>Grafana</li>
-      <li>Prometheus</li>
-    </ul>
-  </li>
-  <li><strong>Automation:</strong>
-    <ul>
-      <li>Ansible</li>
-      <li>Terraform</li>
-    </ul>
-  </li>
-  <li><strong>Cloud:</strong>
-    <ul>
-      <li>AWS</li>
-      <li>GCP</li>
-    </ul>
-  </li>
-  <li><strong>Scripting Language:</strong> Shell Scripting</li>
-  <li><strong>Web and Application Server:</strong>
-    <ul>
-      <li>Apache</li>
-      <li>Tomcat</li>
-      <li>Nginx</li>
-    </ul>
-  </li>
-  <li><strong>Load Balancer:</strong>
-    <ul>
-      <li>HAProxy</li>
-      <li>Nginx</li>
-    </ul>
-  </li>
-</ul>
+
+- **Virtualization Environment:** VMware ESXi, Proxmox, Red Hat Enterprise Virtualization  
+- **Storage:** IBM Storage FlashSystem 5200, IBM Storwize V7000 Gen3, IBM Storwize V7000 Gen1  
+- **Operating System:** Red Hat Enterprise Linux, Ubuntu, Windows Server  
+- **Clustering Technology:** Pacemaker  
+- **Version Control System:** GitHub, GitLab  
+- **Containerization:** Docker  
+- **Container Orchestration:** Kubernetes  
+- **Monitoring:** Nagios, Grafana, Prometheus  
+- **Automation:** Ansible, Terraform  
+- **Cloud:** AWS, GCP  
+- **Scripting Language:** Shell Scripting  
+- **Web and Application Server:** Apache, Tomcat, Nginx  
+- **Load Balancer:** HAProxy, Nginx  
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinmiazy73&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinmiazy73" /> </p>
