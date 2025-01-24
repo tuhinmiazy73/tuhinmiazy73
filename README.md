@@ -40,9 +40,8 @@
 - **AWS Certified Solutions Architect – Associate**
 
   <h2>Education</h2>
-  <b>Dhaka International University</b> - Dhaka, Bangladesh
-  - **Bachelor of Science & Engineering in Computer Science & Engineering (CSE)**
-  - **Bachelor of Science & Engineering in Computer Science & Engineering (CSE)**
+  <b>Dhaka International University</b> - Dhaka, Bangladesh </br>
+ - **Bachelor of Science & Engineering in Computer Science & Engineering (CSE)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinmiazy73&label=Profile%20views&color=0e75b6&style=flat" alt="tuhinmiazy73" /> </p>
 
