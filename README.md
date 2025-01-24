@@ -6,12 +6,13 @@
 <h2>Skills</h2>
 
 - **Virtualization Environment:** VMware ESXi, Proxmox, Red Hat Enterprise Virtualization  
-- **Storage:** IBM Storage FlashSystem 5200, IBM Storwize V7000 Gen3, IBM Storwize V7000 Gen1  
+- **Storage:** CEPH, IBM Storage FlashSystem 5200, IBM Storwize V7000 Gen3, IBM Storwize V7000 Gen1  
 - **Operating System:** Red Hat Enterprise Linux, Ubuntu, Windows Server  
 - **Clustering Technology:** Pacemaker  
 - **Version Control System:** GitHub, GitLab  
 - **Containerization:** Docker  
-- **Container Orchestration:** Kubernetes  
+- **Container Orchestration:** Kubernetes
+- **CI/CD:** Jenkins, GitHub Action
 - **Monitoring:** Nagios, Grafana, Prometheus  
 - **Automation:** Ansible, Terraform  
 - **Cloud:** AWS, GCP  
@@ -30,9 +31,10 @@
 - **Red Hat Certified System Administrator (RHCSA)**  
 - **Red Hat Certified System Engineer (RHCE)**  
 - **Red Hat Certified Specialist in High Availability Clustering**
-- **Red Hat Certified Specialist in Ceph Cloud Storage **  
+- **Red Hat Certified Specialist in Ceph Cloud Storage**  
 - **Red Hat Certified Specialist in Virtualization**  
 - **Certified Kubernetes Administrator (CKA)**
+- **Certified Kubernetes Application Developer (CKAD)**
 - **Docker Certified Associate (DCA)**  
 - **Certified DevOps Engineer**  
 - **AWS Certified Solutions Architect – Associate**
